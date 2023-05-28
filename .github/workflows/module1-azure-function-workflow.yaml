@@ -6,7 +6,7 @@ on:
     branches:
       - main
     paths:
-      - 'tools/deploy/module2/**'
+      - 'tools/deploy/module1/**'
       - 'azure-function-workflow.yaml'
 
 env: 
